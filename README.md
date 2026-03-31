@@ -1,4 +1,4 @@
-# IMAGESLIDER
+
 # IMAGESLIDER
 <div align="center">
   
